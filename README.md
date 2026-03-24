@@ -16,4 +16,4 @@ Side-by-side design using CSS Flexbox.
 
 
 Author
-Aysenur - GitHub Profile
+Aysenur - https://github.com/aysenurbayrm
